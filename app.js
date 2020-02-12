@@ -1,4 +1,5 @@
 // Add DOM selectors to target input and UL movie list
+//more comment
 var inp = document.querySelector("input");
 var myMovieList = document.querySelector("ul");
 
